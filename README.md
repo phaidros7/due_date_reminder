@@ -1,6 +1,6 @@
 This is the original plugin, except minor changes for [redmine in Debian Jessie/8.x](https://packages.debian.org/jessie/redmine)
 
-## Short docs for this version on Debian Jessie/8.x .deb based setups
+Short docs for Debian Jessie/8.x .deb based setups
 
 ## install
 
