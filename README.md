@@ -9,7 +9,7 @@ cd /usr/share/redmine/
 git clone https://github.com/phaidros7/due_date_reminder.git plugins/due_date_reminder
 cd plugins/due_date_reminder
 git checkout phaidros7-debian-jessie
-bundle install
+#bundle install
 ```
 
 ```bash
